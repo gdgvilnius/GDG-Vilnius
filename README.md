@@ -1,5 +1,5 @@
 # GDG Vilnius
-Google Developer Group Vilnius
+[Google Developer Group Vilnius](www.gdg-vilnius.lt)
 
 # Communication
 Join our [slack channel](https://uglt.slack.com/messages/gdgvilnius/).
